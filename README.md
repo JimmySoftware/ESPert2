@@ -1,2 +1,6 @@
-# ESPert2
-ESPert Library for ESPresso Lite (Revision 2 board)
+# ESPert Library for ESPresso Lite REVISION 2 board only
+
+***** If you have ESPresso Lite revision 1, please use
+https://github.com/JimmySoftware/ESPert
+
+
